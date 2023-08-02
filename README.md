@@ -8,7 +8,7 @@ currently the ceo (and engineer 😎) @Tablingos -- creating a [platform](https:
 some fun stuff about me:
 - love swimming & photography 🏊‍♂️ 📸
 - learning french & spanish 🗣️
-- enjoy writing poems during the weekend 📜
+- enjoy writing poems in my free time 📜
 
 ### my stack
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
