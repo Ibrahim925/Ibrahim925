@@ -5,11 +5,11 @@ i'm a multi-paradigm programmer who **loves** making things. when i'm not fullst
 currently the ceo (and engineer 😎) @Tablingos -- creating a [platform](https://www.tablingos.com) to automate data collection, validation, transformation, and integration.
 
 some fun stuff about me:
-- i love swimming, photography, & poetry 🏊‍♂️ 📸 📜
-- learning french & spanish
-- 
+- love swimming & photography 🏊‍♂️ 📸
+- learning french & spanish 🗣️
+- enjoy writing poems during the weekend 📜
 
-my techstack: 
+my stack: 
 <br/>
 <br/>
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,6 +23,12 @@ my techstack:
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### let's connect!
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-khawar-24873a215)
+[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
+[![image](https://img.shields.io/badge/Micro%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)]()
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 <!--
 **Ibrahim925/Ibrahim925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
