@@ -1,4 +1,4 @@
-# hey, i'm ibrahim 👋 </br> engineer | writer | photographer | swimmer
+### hey, i'm ibrahim 👋 </br> engineer | writer | photographer | swimmer
 
 i'm a multi-paradigm programmer who loves making things. when i'm not fullstacking apps, you can find me building with machine learning, brain-machine interfaces, and web3.
 
