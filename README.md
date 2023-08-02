@@ -1,5 +1,8 @@
 ### hey, i'm ibrahim 👋 </br> engineer | writer | photographer | swimmer
 ---
+
+![image](https://avatars.githubusercontent.com/u/72768378?v=4)
+
 i'm a multi-paradigm programmer who **loves** making things. when i'm not fullstacking apps, you can find me building with machine learning 🤖, brain-machine interfaces 🧠, and web3 ⛓️.
 
 currently the ceo (and engineer 😎) @Tablingos -- creating a [platform](https://www.tablingos.com) to automate data collection, validation, transformation, and integration.
