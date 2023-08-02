@@ -26,9 +26,9 @@ my stack:
 
 ### let's connect!
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-khawar-24873a215)
-[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
-[![image](https://img.shields.io/badge/Micro%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)]()
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ibrahim-khawar.medium.com/)
+[![image](https://img.shields.io/badge/Micro%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)](https://substack.com/@ibrahimkhawar)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_ibrahimkhawar)
 
 <!--
 **Ibrahim925/Ibrahim925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
