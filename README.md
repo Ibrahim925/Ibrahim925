@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/72768378?v=4" style="height: 50px;" />
+<img src="https://avatars.githubusercontent.com/u/72768378?v=4" style="height: 100px;" />
 
 ### hey, i'm ibrahim 👋 </br> engineer | writer | photographer | swimmer
 ---
