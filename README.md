@@ -1,7 +1,6 @@
+<img src="https://avatars.githubusercontent.com/u/72768378?v=4" style="height: 50px;" />
 ### hey, i'm ibrahim 👋 </br> engineer | writer | photographer | swimmer
 ---
-
-<img src="https://avatars.githubusercontent.com/u/72768378?v=4" style="height: 50px;" />
 
 i'm a multi-paradigm programmer who **loves** making things. when i'm not fullstacking apps, you can find me building with machine learning 🤖, brain-machine interfaces 🧠, and web3 ⛓️.
 
