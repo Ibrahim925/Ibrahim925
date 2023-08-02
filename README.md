@@ -1,5 +1,5 @@
 # hey, i'm ibrahim 👋
-## engineer | writer | photographer | swimmer
+<h2>engineer | writer | photographer | swimmer</h2>
 
 i'm a multi-paradigm programmer who loves making things. when i'm not fullstacking apps, you can find me building with machine learning, brain-machine interfaces, and web3.
 
