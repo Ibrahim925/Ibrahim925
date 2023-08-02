@@ -1,13 +1,19 @@
 ### hey, i'm ibrahim 👋 </br> engineer | writer | photographer | swimmer
-
-i'm a multi-paradigm programmer who loves making things. when i'm not fullstacking apps, you can find me building with machine learning, brain-machine interfaces, and web3.
+---
+i'm a multi-paradigm programmer who **loves** making things. when i'm not fullstacking apps, you can find me building with machine learning 🤖, brain-machine interfaces 🧠, and web3 ⛓️.
 
 currently the ceo (and engineer 😎) @Tablingos -- creating a [platform](https://www.tablingos.com) to automate data collection, validation, transformation, and integration.
+
+some fun stuff about me:
+- i love swimming, photography, & poetry 🏊‍♂️ 📸 📜
+- learning french & spanish
+- 
 
 my techstack: 
 <br/>
 <br/>
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![image](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
