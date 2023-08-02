@@ -1,4 +1,12 @@
-### Hi there 👋
+# hey, i'm ibrahim 👋
+## engineer | writer | photographer | swimmer
+
+i'm a multi-paradigm programmer who loves making things. when i'm not fullstacking apps, you can find me building with machine learning, brain-machine interfaces, and web3.
+
+currently the ceo (and engineer 😎) @Tablingos -- creating a [platform](https://www.tablingos.com) to automate data collection, validation, transformation, and integration.
+
+my techstack:
+![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 <!--
 **Ibrahim925/Ibrahim925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
