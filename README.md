@@ -5,7 +5,10 @@ i'm a multi-paradigm programmer who loves making things. when i'm not fullstacki
 
 currently the ceo (and engineer 😎) @Tablingos -- creating a [platform](https://www.tablingos.com) to automate data collection, validation, transformation, and integration.
 
-my techstack: <br/><br/>
+my techstack: 
+
+<br/>
+<br/>
 
 Languages
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
