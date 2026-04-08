@@ -3,12 +3,12 @@
 
 i'm a multi-paradigm programmer who **loves** making things. when i'm not full-stacking apps, you can find me building with machine learning 🤖, brain-machine interfaces 🧠, and web3 ⛓️.
 
-currently the ceo (and engineer 😎) [@Tablingos](https://github.com/Tablingos) -- creating a [platform](https://www.tablingos.com) to automate data collection, validation, transformation, and integration.
+prev. ceo (and engineer 😎) [@Tablingos](https://github.com/Tablingos) -- created a platform to automate data collection, validation, transformation, and integration.
 
 some fun stuff about me:
 - love swimming & photography 🏊‍♂️ 📸
 - learning french & spanish 🗣️
-- enjoy writing poems in my free time 📜
+- enjoy theatre and body building
 
 ### my stack
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
